@@ -5,7 +5,9 @@
 1. DATA: To get data for K means clustering, you use MATLAB code “gen_clusterdata”. This code generates your personal data matrix. Use MATLAB command: X=gen_clusterdata(ID), where ID is your student number. The code generates a data matrix X of four columns representing features and N rows representing objects (cases).
 2. Data analysis.
 a) Report N - the total number of rows (objects, cases) in your data.
+
 b) For each column (feature) from 1 to 4 report: the mean, the standard deviation and the histogram.
+
 c) Report the covariance matrix (4x4) and the correlation matrix (4x4).
 
 ## Task 2.2 – K Means
