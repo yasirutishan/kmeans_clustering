@@ -1,5 +1,8 @@
 # K-Means Clustering
 
+![PUSL3123-CourseWork](https://user-images.githubusercontent.com/85503750/214209870-df00880d-f6ef-40f9-a6ad-01e3b8123ec4.jpg)
+![4](https://user-images.githubusercontent.com/85503750/214209874-55b9b4b1-2db8-4065-a5aa-69d3c2d47d36.jpg)
+
 ## Task 2.1 – Data Preparation
 
 1. DATA: To get data for K means clustering, you use MATLAB code “gen_clusterdata”. This code generates your personal data matrix. Use MATLAB command: X=gen_clusterdata(ID), where ID is your student number. The code generates a data matrix X of four columns representing features and N rows representing objects (cases).
